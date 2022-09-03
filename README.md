@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hokyun-tazo
 - 👀 I’m interested in ... Backend
 - 🌱 I’m currently learning ... Backend
-- 💞️ I’m looking to collaborate on ...Naver
+- 💞️ I’m looking to collaborate on ...anyone
 - 📫 How to reach me ...wjdghrbs2468@naver.com
 i want to be a Backend engineer 
 <!---
