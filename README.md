@@ -11,3 +11,6 @@
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/>
 </span>
 
+## Contact
+* Email : wjdghrbs2468@naver.com
+
